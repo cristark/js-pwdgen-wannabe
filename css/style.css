@@ -1,0 +1,15 @@
+/* - - GENERAL - - */
+body {
+  font-family: sans-serif;
+}
+
+a {
+  color: black;
+}
+
+/* - - DEBUG - - */
+[class*="col-"] {
+  height: 200px;
+  border: 1px solid black;
+  background-color: lightcyan;
+}
